@@ -1,0 +1,3 @@
+[submodule "src/CAN"]
+	path = src/CAN
+	url = https://github.com/adamczykpiotr/STM32duino_CAN_Library
